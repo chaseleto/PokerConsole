@@ -24,7 +24,7 @@ namespace ChasePoker
                 "Michael",
                 "Sachin",
                 "Grant",
-                "Foster",
+                "Fostedr",
                 "Kiel",
 
             };
