@@ -18,7 +18,7 @@ namespace ChasePoker
             {
                 "Chdasdje",
                 "Adamdd",
-                "Max",
+                "Maxf",
                 "Logan",
                 "Evren",
                 "Michael",
