@@ -16,7 +16,7 @@ namespace ChasePoker
 
             List<string> playerList = new List<string>()
             {
-                "Chdassdje",
+                "Cdhdassdje",
                 "Adamdddd",
                 "Maxf",
                 "Logan",
