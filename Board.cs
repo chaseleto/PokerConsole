@@ -12,7 +12,7 @@ namespace ChasePoker
         {
             foreach (Card card in currBoard)
             {
-                Console.WriteLine(card.Face.ToString() + " OhFd2 " + card.Suit.ToString());
+                Console.WriteLine(card.Face.ToString() + " OhFdc2 " + card.Suit.ToString());
             }
         }
     }
