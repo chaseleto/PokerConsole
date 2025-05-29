@@ -11,7 +11,7 @@ namespace ChasePoker
         public void ShowBoard()
         {
             foreach (Card card in currBoard)dfdf
-            {
+            {dd
                 Console.WriteLine(card.Face.ToString() + " OhFdcdxsdssdxdxdsxdc2 " + card.Suit.ToString());
             }
         }
