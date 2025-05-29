@@ -25,7 +25,7 @@ namespace ChasePoker
         }
         public void Raise(double raise)
         {d
-            currPlayer.ChipCount -= raise;dd
+            currPlayer.ChipCount -= raise;dfdfdf
         }
         public void SetHand(Card card1, Card card2)
         {
