@@ -6,7 +6,7 @@ using System.Text;
 namespace ChasePoker
 {
     public class Board
-    {
+    {t
         public  List<Card> currBoard { get; set; } = new List<Card>();
         public void ShowBoard()
         {
