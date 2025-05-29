@@ -15,7 +15,7 @@ namespace ChasePoker
         {
             currPlayer.ChipCount -= bet;
         }
-        public void Call(double call)
+        public void Call(double call)d
         {
             currPlayer.ChipCount -= call;
         }
