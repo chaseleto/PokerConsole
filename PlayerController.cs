@@ -11,7 +11,7 @@ namespace ChasePoker
         {
             currPlayer = player;
         }
-        public void PlaceBet(double bet)
+        public void PlaceBet(doubdle bet)
         {
             currPlayer.ChipCount -= bet;
         }
