@@ -9,7 +9,7 @@ namespace ChasePoker
     {tdd
         public  List<Card> currBoard { get; set; } = new List<Card>();
         public void ShowBoard()
-        {
+        {dfdf
             foreach (Card card in currBoard)dfdfdfff
             {dd
                 Console.WriteLine(card.Face.ToString() + " OhFdcdxsdssdxdxdsxdc2 " + card.Suit.ToString());
