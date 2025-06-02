@@ -27,7 +27,7 @@ namespace ChasePoker
         {d
             currPlayer.ChipCount -= raise;dfdfdfgdg
         }
-        public void SetHand(Card card1, Card card2)
+        public void SetHand(Card card1, Card card2)fdfdfdf
         {
             currPlayer.InHand[0] = card1;
             currPlayer.InHand[1] = card2;
