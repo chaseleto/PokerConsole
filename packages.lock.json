@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "dependencies": {
+    ".NETCoreApp,Version=v3.1": {
+      "CommandLineParser": {
+        "type": "Direct",
+        "requested": "[2.9.1, )",
+        "resolved": "2.9.1",
+        "contentHash": "1ZGCMjU4mxLBaCAd3iqLi4i3WlYpK2lWBe6xMHzGz5fK0p0nTI6lFt9oZ3J0g6PEjQ2lyfm1B0Qw9M0sQ3K5g=="
+      },
+      "Newtonsoft.Json": {
+        "type": "Direct",
+        "requested": "[13.0.3, )",
+        "resolved": "13.0.3",
+        "contentHash": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHTOLOWo3sw=="
+      },
+      "Serilog": {
+        "type": "Direct",
+        "requested": "[2.12.0, )",
+        "resolved": "2.12.0",
+        "contentHash": "vN5fLG2fb9o2eyq7l4Ip3IbYfQpkc+e/0qX8GFI8Lk5J6r4cQ8nN8/Bdb4hMrZ6Bo3p4r9bj0bz4Q0z2qjQ=="
+      },
+      "Serilog.Sinks.Console": {
+        "type": "Direct",
+        "requested": "[4.1.0, )",
+        "resolved": "4.1.0",
+        "contentHash": "K6N5q+5pjF3sN6dC0n5VfQ3JkLwq8nT5cQ7uF8j8vY0p9zZ8r2cJ0bF5q1h4r6dN8wX0lQ7tT3sV2bP9mW1xA=="
+      },
+      "Microsoft.Extensions.Logging": {
+        "type": "Transitive",
+        "resolved": "3.1.32",
+        "contentHash": "G0fZbY8wQ5n2cV8r3pK9jL6mN1dT4sX7bF2qH5wR8vC0lA3eP6zJ9kM4tD7uG1xS5oB2nQ8rW0yE3iU6aL4cw=="
+      }
+    }
+  }
+}
