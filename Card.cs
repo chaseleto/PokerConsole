@@ -20,4 +20,3 @@ namespace ChasePoker
         public FACE Face { get; set; }
     }
 }
-// C3 change
