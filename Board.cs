@@ -17,3 +17,5 @@ namespace ChasePoker
         }
     }
 }
+
+// codescanner e2e test marker 20260527T015408Z
