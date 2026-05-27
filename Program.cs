@@ -81,5 +81,3 @@ namespace ChasePoker
 }
 
 // baseline marker A 021659Z
-
-// C1 change
