@@ -18,3 +18,5 @@ namespace ChasePoker
         HIGH_CARD
     }
 }
+
+// attestation UI demo C2
