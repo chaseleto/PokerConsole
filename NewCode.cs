@@ -1,0 +1,2 @@
+// brand new
+class NewCode {}
